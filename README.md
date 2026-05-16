@@ -1,7 +1,9 @@
 # TAI Profile
 
-![Cover 1](Pasted%20Image%2020260308171840_313.png)
-![Cover 2](Pasted%20Image%2020260308172318_022.png)
+<table><tr>
+<td><img src="Pasted%20Image%2020260308171840_313.png" width="100%"/></td>
+<td><img src="Pasted%20Image%2020260308172318_022.png" width="100%"/></td>
+</tr></table>
 
 **A user-owned, transferable cognitive profiling framework for domain experts**
 
