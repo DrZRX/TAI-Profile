@@ -1,9 +1,10 @@
 # TAI Profile
 
-<table><tr>
-<td><img src="Pasted%20Image%2020260308171840_313.png" width="80%"/></td>
-<td><img src="Pasted%20Image%2020260308172318_022.png" width="100%"/></td>
-</tr></table>
+<p align="center">
+  <img src="Pasted%20Image%2020260308171840_313.png" width="280"/>
+  &nbsp;&nbsp;
+  <img src="Pasted%20Image%2020260308172318_022.png" width="280"/>
+</p>
 
 **A user-owned, transferable cognitive profiling framework for domain experts**
 
