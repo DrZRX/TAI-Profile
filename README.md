@@ -1,5 +1,8 @@
 # TAI Profile
 
+![Cover 1](Pasted%20Image%2020260308171840_313.png)
+![Cover 2](Pasted%20Image%2020260308172318_022.png)
+
 **A user-owned, transferable cognitive profiling framework for domain experts**
 
 > *"它"与"AI"的组合 — A cognitive portrait drawn by AI, owned by the user.*
