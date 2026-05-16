@@ -1,7 +1,7 @@
 # TAI Profile
 
 <table><tr>
-<td><img src="Pasted%20Image%2020260308171840_313.png" width="90%"/></td>
+<td><img src="Pasted%20Image%2020260308171840_313.png" width="50%"/></td>
 <td><img src="Pasted%20Image%2020260308172318_022.png" width="100%"/></td>
 </tr></table>
 
